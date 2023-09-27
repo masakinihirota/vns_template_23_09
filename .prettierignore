@@ -1,0 +1,25 @@
+# Ignore artifacts:
+build
+coverage
+
+# dotfile
+.env*
+
+# markdown
+*.md
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+package-lock.json
+
+# Storybook
+# *.stories.ts
+# *.stories.tsx
+
+# テンプレートファイル
+**/*.hbs
