@@ -1,7 +1,13 @@
-# VNS
+# VNS TEMPLATE
 
-# 色
+Qiita記事
+Next.js 13 App router Supabase 認証機能付き vns開発用テンプレート - Qiita
 
+https://qiita.com/masakinihirota/items/12da291e560c4850b511
+
+npmでインストールをしてください。
+
+このテンプレートは Supabase Starter をベースにしています。
 
 ----------------------------------------
 
