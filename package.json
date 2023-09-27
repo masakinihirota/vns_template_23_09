@@ -16,7 +16,8 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
-    "@nextui-org/react": "^2.1.12",
+    "@nextui-org/react": "^2.1.13",
+    "@nextui-org/switch": "^2.0.21",
     "@supabase/auth-helpers-nextjs": "latest",
     "@supabase/supabase-js": "latest",
     "@vitejs/plugin-react": "^4.0.4",
@@ -28,6 +29,7 @@
     "i18next": "^23.5.1",
     "i18next-browser-languagedetector": "^7.1.0",
     "i18next-resources-to-backend": "^1.1.4",
+    "install": "^0.13.0",
     "next": "^13.5.2",
     "next-themes": "^0.2.1",
     "postcss": "8.4.24",
