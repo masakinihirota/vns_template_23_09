@@ -41,3 +41,7 @@ next-env.d.ts
 .turbo
 
 pnpm-lock.yaml
+
+dust/
+
+package-lock.json
